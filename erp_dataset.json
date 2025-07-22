@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Müşteri bilgilerini getir",
+    "input": "",
+    "output": "Müşteri: Ali Yılmaz, Şirket: ABC Ltd, Satın Alma Tarihi: 12/06/2023"
+  },
+  {
+    "instruction": "Son 1 haftalık satışları listele",
+    "input": "",
+    "output": "Toplam Satış: 15 işlem, Tutar: 74.500 TL"
+  },
+  {
+    "instruction": "Stok durumu nedir?",
+    "input": "Ürün: Laptop",
+    "output": "Stokta 12 adet laptop bulunmaktadır."
+  },
+  {
+    "instruction": "Yeni bir sipariş oluştur",
+    "input": "Müşteri: Ayşe Demir, Ürün: Yazıcı",
+    "output": "Sipariş başarıyla oluşturuldu. Sipariş ID: #9487"
+  }
+]

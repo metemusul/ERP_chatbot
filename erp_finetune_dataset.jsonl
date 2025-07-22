@@ -1,0 +1,20 @@
+{"instruction": "Finans modülü ne işe yarar?", "input": "", "output": "Finans Yönetim Modülü; müşteri, satıcı ve banka hesaplarını takip eder, ödeme-tahsilat planları oluşturur ve bunlara bağlı risk, adat ve faiz hesaplamalarını yapar."}
+{"instruction": "Stok seviyesini nasıl takip ederim?", "input": "", "output": "Stok Yönetim Modülü, ticari malların kritik seviyelerini takip etmenizi sağlar. Böylece stok durumunu anlık izleyebilirsiniz."}
+{"instruction": "Tedarikçi siparişlerini takip etmek için hangi modülü kullanmalıyım?", "input": "", "output": "Pazarlama ve Satın Alma Modülü; tedarikçi ilişkilerini yönetir ve sipariş takibi yapmanızı sağlar."}
+{"instruction": "Muhasebe işlemlerimi nasıl yönetirim?", "input": "", "output": "Muhasebe Yönetim Modülü, yasal yükümlülüklerinizi yerine getirmenize, mali tablolar hazırlamanıza ve analiz yapmanıza olanak tanır."}
+{"instruction": "Verilerimi başka sistemden nasıl aktarırım?", "input": "", "output": "Kolay Veri Geçişi özelliği sayesinde mevcut sisteminizdeki verileri hızlıca Link-Cloud ERP’ye aktarabilirsiniz."}
+{"instruction": "Sistem veri güvenliği sunuyor mu?", "input": "", "output": "Evet, Link-Cloud ERP ile verileriniz güvendedir. Ayrıca 10 güne kadar istediğiniz zamana geri dönebilirsiniz."}
+{"instruction": "Veritabanı bana özel mi oluşturuluyor?", "input": "", "output": "Evet, işletmenize özel veritabanı oluşturularak tüm süreçlerinizi hızlı ve güvenli şekilde yönetmenizi sağlar."}
+{"instruction": "Gece bile sisteme erişebilir miyim?", "input": "", "output": "Evet, Link-Cloud ERP bulut altyapısıyla 7/24 yüksek performanslı erişim sunar."}
+{"instruction": "Kullanıcı ve rol yönetimi nasıl yapılır?", "input": "", "output": "ERP sistemi, sınırsız kullanıcı oluşturmanıza, roller tanımlamanıza ve bu rolleri kullanıcılarla eşleştirmenize olanak tanır."}
+{"instruction": "Satın alma süreçlerini nasıl verimli hale getirebilirim?", "input": "", "output": "Pazarlama ve Satın Alma Modülü, siparişleri takip etmenizi ve ödeme planları oluşturarak süreci daha verimli hale getirmenizi sağlar."}
+{"instruction": "Finans modülü ile çek ve senet işlemleri yapılabilir mi?", "input": "", "output": "Evet, çek ve senet işlemleri Finans Yönetim Modülü üzerinden takip edilebilir."}
+{"instruction": "Stok uyarı seviyelerini nasıl belirlerim?", "input": "", "output": "Stok Yönetim Modülü'nde kritik seviyeler tanımlanarak stok uyarıları otomatik hale getirilebilir."}
+{"instruction": "Tedarikçilere otomatik ödeme planı yapılabilir mi?", "input": "", "output": "Pazarlama ve Satın Alma Modülü ödeme planları oluşturarak bu işlemleri kolaylaştırır."}
+{"instruction": "Yasal beyannameleri ERP ile hazırlayabilir miyim?", "input": "", "output": "Muhasebe Yönetim Modülü ile yasal beyannameler ve mali raporlar hazırlanabilir."}
+{"instruction": "Verilerim silinirse geri dönebilir miyim?", "input": "", "output": "Evet, 10 güne kadar geçmiş yedeklerden veri geri yüklenebilir."}
+{"instruction": "Farklı kullanıcılar farklı yetkilere sahip olabilir mi?", "input": "", "output": "Evet, kullanıcı rolleri tanımlanarak her kullanıcıya özel yetkiler verilebilir."}
+{"instruction": "ERP sistemi cep telefonundan kullanılabilir mi?", "input": "", "output": "Evet, Link-Cloud ERP’ye 7/24 tüm cihazlardan erişebilirsiniz."}
+{"instruction": "Stok raporlarını dışa aktarabilir miyim?", "input": "", "output": "Stok Yönetim Modülü ile oluşturulan raporlar Excel veya PDF olarak dışa aktarılabilir."}
+{"instruction": "Satış raporlarını grafiksel görebilir miyim?", "input": "", "output": "Evet, Finans Yönetim Modülü'nde grafiksel satış analizleri mümkündür."}
+{"instruction": "ERP sistemi ile banka entegrasyonu mümkün mü?", "input": "", "output": "Finans Yönetim Modülü banka hesaplarını entegre şekilde yönetmenizi sağlar."}
